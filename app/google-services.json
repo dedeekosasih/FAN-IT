@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53454304432",
+    "project_id": "fan-login-4801f",
+    "storage_bucket": "fan-login-4801f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53454304432:android:eaaed72a0153d721e0f775",
+        "android_client_info": {
+          "package_name": "com.example.fanlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53454304432-8u41i2ot1iv0u13mesrlsclhtp9ki4d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8yhTNObARbZO7KZwOHGqowZPakSPt-og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53454304432-8u41i2ot1iv0u13mesrlsclhtp9ki4d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
